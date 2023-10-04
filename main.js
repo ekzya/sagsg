@@ -56,7 +56,7 @@ let rea = (Number(num));
 
 
 $(".size .back").on("touchstart", function () {
-    if ((Number($(".number").html())) < 36) {
+    if ((Number($(".number").html())) < 56) {
         $(".backk").css({
             opacity: .7
         });
